@@ -1,4 +1,4 @@
-TaxBridge<br><br>
+TaxBridge – Automated Expense Classification System<br><br>
 TaxBridge is an automation tool that extracts transactions from bank statements, classifies expenses, applies GST rules, and generates ready to download reports.<br><br>
 <br>
 Features<br>
@@ -12,3 +12,4 @@ Tech Stack<br>
 Python<br>
 Streamlit<br>
 Pandas<br><br>
+
